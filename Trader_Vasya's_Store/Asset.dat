@@ -1,0 +1,24 @@
+GUID 516b0bfe75dfd724822a9ff02e7cdc6d
+Type Vendor
+ID 51050
+
+Buying 2
+// PINE LOG
+Buying_0_ID 41
+Buying_0_Cost 5
+// MRE
+Buying_1_ID 81
+Buying_1_Cost 30
+
+Selling 3
+// MRE
+Selling_0_ID 81
+Selling_0_Cost 40
+// GAS CAN
+Selling_1_ID 28
+Selling_1_Cost 80
+// LOW CALIBER MILLITARY AMMO
+Selling_2_ID 43
+Selling_2_Cost 80
+
+Currency 5150ca8f765d4a68bfe54912146da410

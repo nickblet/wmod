@@ -1,0 +1,10 @@
+GUID 533a48be424546150d65358861332932
+Type Dialogue
+ID 1229
+
+Messages 1
+Message_0_Pages 2
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Bool
+Message_0_Reward_0_ID 20
+Message_0_Reward_0_Value True

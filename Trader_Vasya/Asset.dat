@@ -1,0 +1,17 @@
+GUID b9a72d806231445ab6e1e0eb9563058e
+Type NPC
+ID 1337
+
+Shirt 420
+Pants 2
+Mask 185
+
+Face 8
+Hair 2
+Color_Skin #d9cab4
+Color_Hair #473928
+
+Secondary 99
+
+// Trader_Vasya_Welcome
+Dialogue 1337

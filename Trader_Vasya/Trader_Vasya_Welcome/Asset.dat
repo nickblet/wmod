@@ -1,0 +1,27 @@
+GUID faddca2f0d7d42579c88ffee75f9a89c
+Type Dialogue
+ID 1337
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Chef_Vendor_Completed
+Response_0_Dialogue 1339
+Response_0_Vendor 51050
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 61
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal
+
+// Supply origin?
+// Chef_Supply
+Response_1_Dialogue 1338
+Response_1_Rewards 1
+// Can_Sell_To_Chef
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 61
+Response_1_Reward_0_Value True

@@ -1,0 +1,42 @@
+GUID 50666bb8f31f48168423d7b7d9482c33
+Type Dialogue
+ID 1228
+
+Messages 2
+
+// Hi, I'am <name_npc>.
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+// Met
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 15
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Greeting
+Message_1_Pages 1
+
+Responses 4
+
+// And why are you here?
+// Outfit
+Response_0_Dialogue 1230
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Rewards 1
+// Met_P.Riso
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 15
+Response_0_Reward_0_Value True
+
+// Is there anything for sale?
+// Hot_Stuff
+Response_1_Dialogue 1231
+Response_1_Vendor 1232
+
+// What are you doing here?
+// Hiding
+Response_2_Dialogue 1229

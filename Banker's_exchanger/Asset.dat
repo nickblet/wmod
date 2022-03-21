@@ -1,0 +1,42 @@
+GUID 7535986bba304f29b6bb55d40d9976ed
+Type Vendor
+ID 1232
+
+Buying 3
+// Pine Log
+Buying_0_ID 41
+Buying_0_Cost 5
+// Metal Scrap
+Buying_1_ID 67
+Buying_1_Cost 5
+// Bandage
+Buying_2_ID 95
+Buying_2_Cost 10
+
+Selling 8
+// Bottled Water
+Selling_0_ID 14
+Selling_0_Cost 10
+// Canned Soup
+Selling_1_ID 78
+Selling_1_Cost 10
+// MRE
+Selling_2_ID 81
+Selling_2_Cost 50
+// Medkit
+Selling_3_ID 15
+Selling_3_Cost 30
+// Note 10
+Selling_4_ID 1052
+Selling_4_Cost 10
+// Note 20
+Selling_5_ID 1053
+Selling_5_Cost 20
+// Note 50
+Selling_6_ID 1054
+Selling_6_Cost 50
+// Note 100
+Selling_7_ID 1055
+Selling_7_Cost 100
+
+Currency 5150ca8f765d4a68bfe54912146da410
